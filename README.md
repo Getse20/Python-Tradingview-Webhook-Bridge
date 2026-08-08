@@ -20,10 +20,3 @@ A lightweight, secure backend server built in **Python** designed to ingest JSON
 * **Error Handling & Logging:** Built-in console logging to track live webhook calls, dropped packets, or malformed data requests.
 
 ---
-
-## ⚙️ Quick Start Installation
-
-### Step 1: Clone the Repository
-```bash
-git clone [https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git](https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git)
-cd Python-Tradingview-Webhook-Bridge
