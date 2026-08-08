@@ -21,10 +21,20 @@ A lightweight, secure backend server built in **Python** designed to ingest JSON
 
 ---
 
-## ⚙️ Quick Start Installation
+### ⚙️ Quick Start Installation
 
 ### Step 1: Clone the Repository
 ```bash
 git clone [https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git](https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git)
 cd Python-Tradingview-Webhook-Bridge
-   
+```
+
+### Step 2: Install Dependencies
+```bash
+pip install flask
+```
+
+### Step 3: Run the Server
+```bash
+python server.py
+```
