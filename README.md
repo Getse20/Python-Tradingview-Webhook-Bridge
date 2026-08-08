@@ -24,7 +24,7 @@ A lightweight, secure backend server built in **Python** designed to ingest JSON
 ## ⚙️ Quick Start Installation
 
 1. **Clone the Repository:**
-   ```bash
+  ` ``` `bash
    git clone [https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git](https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git)
    cd Python-Tradingview-Webhook-Bridge
    
