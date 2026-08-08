@@ -7,7 +7,7 @@ A lightweight, secure backend server built in **Python** designed to ingest JSON
 ## 🛠️ Tech Stack & Requirements
 
 * **Language:** Python 3.9+
-* **Framework:** Flask (or FastAPI)
+* **Framework:** Flask
 * **Protocol:** HTTP POST Webhooks / REST API
 
 ---
@@ -21,14 +21,9 @@ A lightweight, secure backend server built in **Python** designed to ingest JSON
 
 ---
 
-### ⚙️ Quick Start Installation
+## ⚙️ Quick Start Installation
 
-**Step 1: Clone the Repository**
-    git clone [https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git](https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git)
-    cd Python-Tradingview-Webhook-Bridge
-
-**Step 2: Install Dependencies**
-    pip install flask
-
-**Step 3: Run the Server**
-    python server.py
+### Step 1: Clone the Repository
+```bash
+git clone [https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git](https://github.com/Getse20/Python-Tradingview-Webhook-Bridge.git)
+cd Python-Tradingview-Webhook-Bridge
